@@ -1,5 +1,7 @@
 {
     "env": {
+        "UPSTREAM_REPO": {"value": "https://github.com/UsergeTeam/Loader"},
+        "NO_CACHE": {"value": "true"},
         "API_ID": {"description": "Get this value from https://my.telegram.org"},
         "API_HASH": {"description": "Get this value from https://my.telegram.org"},
         "DATABASE_URL": {"description": "Mongodb url from https://cloud.mongodb.com/"},
